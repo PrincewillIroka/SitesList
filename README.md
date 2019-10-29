@@ -3,8 +3,8 @@ Someone sent this Wireframe to me, and I converted it to this app within a few h
 
 #App User Interface
 
-![Sites List](https://i.imgur.com/0qzGbDo.png)
-![Site Details](https://i.imgur.com/heMnmV1.png)
+![Sites List](https://i.imgur.com/iiSCIHE.png)
+![Site Details](https://i.imgur.com/ZEBCYfo.png)
 
 
 #Wireframe
