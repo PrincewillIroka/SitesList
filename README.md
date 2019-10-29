@@ -5,6 +5,4 @@ App User Interface
 ![Sites List](https://i.imgur.com/3TQY4R0.png)
 ![Site Details](https://i.imgur.com/sZP4LFL.png)
 
-#Wireframe
-Wireframe
 ![Wireframe](https://imgur.com/LBSvprv)
